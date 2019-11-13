@@ -34,7 +34,7 @@ You'll notice it's on all sides. Currently, there is no easy way to make an imag
 
 Before starting this challenge you might want to think of a theme for your scene (e.g. space, forest, desert, etc.). Also you'll be adding your own images to the scene. Make sure the image is downloaded to your computer. In your app, go to assets, click `Add Asset` and upload your image to Glitch.
 
-1. Insert a different sky image. You'll need a 360 image to make a decent sky. You can find some at this [site](https://www.gettyimages.com/photos/360-degree-view?sort=mostpopular&mediatype=photography&phrase=360%20degree%20view) or by doing a Google Image Search of "360 degree images".
+1. Insert a different sky image. You'll need a 360 image to make a decent sky. You can find some at this [site](https://www.flickr.com/groups/360degrees/pool/with/49029956007/) or by doing a Google Image Search of "360 degree images".
 
 2. Change the objects in the scene and/or textures to match your new sky. You can find some textures at this [site](https://www.pexels.com/search/texture/) or by doing a Google Image Search of "texture jpg".
 
